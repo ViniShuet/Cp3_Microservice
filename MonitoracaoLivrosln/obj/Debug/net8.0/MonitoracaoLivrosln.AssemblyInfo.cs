@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonitoracaoLivrosln")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952c766effc498653c31e4911f19694a485a8f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonitoracaoLivrosln")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonitoracaoLivrosln")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

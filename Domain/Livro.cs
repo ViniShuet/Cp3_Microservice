@@ -8,7 +8,7 @@ namespace Domain
 {
     public class Livro 
     {
-        public int ISBN { get; set; }
+        public string ISBN { get; set; }
 
         public string titulo { get; set; }
 
@@ -18,7 +18,7 @@ namespace Domain
 
         public string statusLivro { get; set; } //disponivel, emprestado ou reservado
 
-        public string dataCadastro { get; set; }
+        public DateTime dataCadastro { get; set; }
 
     }
 

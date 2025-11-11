@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    internal class Emprestimo
+    public class Emprestimo
     {
         public int idEmprestimo {  get; set; }
 
         public Livro ISBN { get; set; }
 
-        public Usuario id { get; set; }
+        public Usuario Usuario { get; set; }
 
         public string dataEmprestimo { get; set; }
 

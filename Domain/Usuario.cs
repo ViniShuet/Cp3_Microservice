@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    internal class Usuario
+    public class Usuario
     {
         public int id { get; set; }
 
@@ -16,6 +16,6 @@ namespace Domain
 
         public string tipo { get; set; } //aluno, professor ou funcionario
 
-        public string dataCadastro { get; set; }
+        public DateTime dataCadastro { get; set; }
     }
 }
